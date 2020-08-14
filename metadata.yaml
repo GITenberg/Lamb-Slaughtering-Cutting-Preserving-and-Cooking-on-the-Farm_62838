@@ -1,5 +1,8 @@
 _repo: Lamb-Slaughtering-Cutting-Preserving-and-Cooking-on-the-Farm_62838
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62838-h/images/cover.jpg
 creator:
   authors:
   - agent_name: West, R. L. (Roger Lawrence)
@@ -23,6 +26,8 @@ creator:
     gutenberg_agent_id: '52150'
     url: http://www.gutenberg.org/2009/agents/52150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62838#Lamb-Slaughtering-Cutting-Preserving-and-Cooking-on-the-Farm
 gutenberg_issued: '2020-08-03'
 gutenberg_type: Text
 identifiers:
